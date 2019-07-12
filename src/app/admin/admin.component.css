@@ -1,0 +1,26 @@
+
+body{ margin-top:50px;}
+.nav-tabs .glyphicon:not(.no-margin) {
+     margin-right:10px; 
+    }
+ .list-group-item:first-child {
+border-top-right-radius: 0px;
+border-top-left-radius: 0px;
+}
+ .list-group-item:last-child {
+border-bottom-right-radius: 0px;
+border-bottom-left-radius: 0px;
+}
+
+ 
+ .list-group .glyphicon { 
+     margin-right:5px;
+     }
+
+hr { 
+    margin-top: 5px;
+    margin-bottom: 10px;
+ }
+.nav-pills>li>a {
+    padding: 5px 10px;
+}
